@@ -1,0 +1,42 @@
+#EXTM3U
+#EXTINF:0, DSPORTS #EXTVLCOPT:file-caching=1000
+http://201.230.121.186:8000/play/a0od/index.m3u8
+#EXTINF:11,DIREC TV SPORT HD
+#EXTVLCOPT:file-caching=1000
+http://201.230.121.85:8000/play/a0yv/index.m3u8
+#EXTINF:0, DSPORTS 1 #EXTVLCOPT:file-caching=1000
+http://190.117.20.37:8000/play/a08d/index.m3u8
+#EXTINF:0, DSPORTS 1 #EXTVLCOPT:file-caching=1000
+http://190.117.20.39:8000/play/a08d/index.m3u8
+#EXTINF:11, ESPN #EXTVLCOPT:file-caching=1000
+http://45.173.74.2:2010/play/a08a/index.m3u8
+#EXTINF:0, ESPN 2 #EXTVLCOPT:file-caching=1000
+http://181.205.130.194:4000/play/a07i
+#EXTINF:0, ESPN 2 #EXTVLCOPT:file-caching=1000
+http://191.97.49.82:8001/play/a00m/index.m3u8
+#EXTINF:0, ESPN 3 #EXTVLCOPT:file-caching=1000
+http://167.250.223.26:8085/play/a069/index.m3u8
+#EXTINF:0, ESPN PREMIUM #EXTVLCOPT:file-caching=1000
+http://167.250.223.26:8085/play/a04g/index.m3u8
+#EXTINF:11, TNT SPORTS PREMIUM #EXTVLCOPT:file-caching=1000
+http://200.115.120.1:8000/play/ca040/index.m3u8
+#EXTINF:11, TELEFE #EXTVLCOPT:file-caching=1000
+http://200.115.120.1:8000/play/ca016/index.m3u8
+#EXTINF:0, ESPN 5 #EXTVLCOPT:file-caching=1000
+http://190.0.247.38:8000/play/a012
+#EXTINF:11, DSPORTS 1 #EXTVLCOPT:file-caching=1000
+http://190.117.20.37:8000/play/a08d/index.m3u8
+#EXTINF:0, ESPN 2 #EXTVLCOPT:file-caching=1000
+http://181.205.130.194:4000/play/a07i
+#EXTINF:0, Fox Sports #EXTVLCOPT:file-caching=1000
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
+#EXTINF:0, ESPN #EXTVLCOPT:file-caching=1000
+http://200.106.13.204:8000/play/a00i/index.m3u8
+#EXTINF:0, ESPN #EXTVLCOPT:file-caching=1000
+http://200.106.13.204:8000/play/a0kp/index.m3u8
+#EXTINF:0, ESPN #EXTVLCOPT:file-caching=1000
+http://181.118.156.46:8000/play/a04g/index.m3u8
+#EXTINF:0, ESPN 2 #EXTVLCOPT:file-caching=1000
+http://200.10.30.241:8000/play/a01r/index.m3u8
+#EXTINF:11,ESPN 2 #EXTVLCOPT:file-caching=1000
+http://45.228.234.30:16000/play/a01l/index.m3u8
